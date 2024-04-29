@@ -32,6 +32,7 @@ This project was created for a fictional burger restaurant to manage its interna
 Run the commands
 
 php artisan serves
+
 npm run dev
 
 ## :arrow_down: Credits
