@@ -1,4 +1,4 @@
-## Getting Started
+## :hamburger: Getting Started
 
 This project was created for a fictional burger restaurant to manage its internal products and orders. It was developed using MVC architecture patterns.
 
@@ -7,7 +7,7 @@ This project was created for a fictional burger restaurant to manage its interna
 | :red_square: | Laravel 10 |
 | :yellow_square: | JavaScript |
 
-## Download and Installation
+## :cd: Download and Installation
 
 1. PHP 8 
    - Download and Installation: https://www.php.net/downloads.php
@@ -24,13 +24,13 @@ This project was created for a fictional burger restaurant to manage its interna
    - Download: https://dev.mysql.com/downloads/workbench/
      - Installation: https://dicasdeprogramacao.com.br/como-instalar-o-mysql-no-windows/
 
-## Initialization
+## 📽️ Initialization
 
 Run the commands
 
 php artisan serves
 npm run dev
 
-## Credits
+## :arrow_down: Credits
 
 Alan Oliveira
