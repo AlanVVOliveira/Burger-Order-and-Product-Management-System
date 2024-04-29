@@ -4,8 +4,8 @@ This project was created for a fictional burger restaurant to manage its interna
 
 |   |    Specs   |
 | - | ---------- |
-| - | Laravel 10 |
-| - | JavaScript |
+| :red_square: | Laravel 10 |
+| :yellow_square: | JavaScript |
 
 ## Download and Installation
 
@@ -27,8 +27,9 @@ This project was created for a fictional burger restaurant to manage its interna
 ## Initialization
 
 Run the commands
-    -php artisan serves
-        -npm run dev
+
+php artisan serves
+npm run dev
 
 ## Credits
 
