@@ -1,3 +1,5 @@
+![home screen](https://github.com/AlanVVOliveira/Burger-Order-and-Product-Management-System/blob/master/public/img/Captura%20de%20tela%202024-04-29%20113017.png)
+
 ## :hamburger: Getting Started
 
 This project was created for a fictional burger restaurant to manage its internal products and orders. It was developed using MVC architecture patterns.
