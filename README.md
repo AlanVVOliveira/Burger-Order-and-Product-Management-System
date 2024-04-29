@@ -1,4 +1,5 @@
 <img src="public/img/Captura de tela 2024-04-29 112948.png"> 
+<img src="public/img/Captura de tela 2024-04-29 113052.png"> 
 
 ## :hamburger: Getting Started
 
