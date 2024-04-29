@@ -29,6 +29,12 @@ This project was created for a fictional burger restaurant to manage its interna
 
 ## 📽️ Initialization
 
+#### Import
+
+import the master_burger.sql file into your database
+
+help - https://help.umbler.com/hc/pt-br/articles/202385865-MySQL-Importando-Exportando-um-banco-de-dados#:~:text=Importando%20um%20Arquivo,e%20selecionar%20o%20arquivo%20desejado.
+
 #### Run the commands
 
 php artisan serve
