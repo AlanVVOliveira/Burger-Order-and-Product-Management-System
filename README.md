@@ -29,7 +29,7 @@ This project was created for a fictional burger restaurant to manage its interna
 
 ## 📽️ Initialization
 
-# Run the commands
+#### Run the commands
 
 php artisan serve
 
