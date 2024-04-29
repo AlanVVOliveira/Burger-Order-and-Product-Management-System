@@ -1,4 +1,4 @@
-![home screen]([https://github.com/AlanVVOliveira/Burger-Order-and-Product-Management-System/blob/master/public/img/Captura%20de%20tela%202024-04-29%20113017.png](https://github.com/AlanVVOliveira/Burger-Order-and-Product-Management-System/blob/master/public/img/Captura%20de%20tela%202024-04-29%20112948.png))
+![home screen](https://github.com/AlanVVOliveira/Burger-Order-and-Product-Management-System/blob/master/public/img/Captura%20de%20tela%202024-04-29%20113017.png](https://github.com/AlanVVOliveira/Burger-Order-and-Product-Management-System/blob/master/public/img/Captura%20de%20tela%202024-04-29%20112948.png))
 
 ## :hamburger: Getting Started
 
